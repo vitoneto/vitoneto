@@ -1,8 +1,9 @@
- <table align="right">
-  <tr><td><a href="README_en.md">English</a></td></tr>
-  <tr><td><a href="README.md">Português</a></td></tr>
- </table>
+
 <div>
+ <table align="right">
+ <tr><td><a href="README_en.md">English</a></td></tr>
+ <tr><td><a href="README.md">Português</a></td></tr>
+</table>
 <img align="left" alt="Brazil´s Flag" height="30" width="30" src="https://image.flaticon.com/icons/png/512/197/197386.png" /> 
 <h2>Olá! Sou Vito Neto! 👋</h2>
 <p>
@@ -10,7 +11,6 @@
  Apaixonado por tecnologia, focado em desenvolver aplicações responsivas, acessíveis, intuitivas e de alta performance.<br>
  Estudande assíduo, me desafio constantemente, e me tornar um desenvolverdor de alta qualidade me motiva.<br>
  Acho fantastico desenvolver um layout com design desafiador e bonito, fico facinado e orgulhoso ao ver funcionando aplicações que ajudei a construir.
- 
 </p>
 </div>
 
