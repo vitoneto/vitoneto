@@ -1,10 +1,8 @@
-
-<div>
  <table align="right">
   <tr><td><a href="README_en.md">English</a></td></tr>
   <tr><td><a href="README.md">Português</a></td></tr>
  </table>
-
+<div>
 <img align="left" alt="Brazil´s Flag" height="30" width="30" src="https://image.flaticon.com/icons/png/512/197/197386.png" /> 
 <h2>Olá! Sou Vito Neto! 👋</h2>
 <p>
