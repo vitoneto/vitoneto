@@ -1,8 +1,18 @@
-### Olá, 👋 seja bem vindo!
+<div>
+<img align="left" alt="Brazil´s Flag" height="30" width="30" src="https://image.flaticon.com/icons/png/512/197/197386.png" /> 
+<h2>Olá! Sou Vito Neto! 👋</h2>
 <!-- <table align="right">
  <tr><td><a href="README_en.md">English</a></td></tr>
  <tr><td><a href="README.md">Português</a></td></tr>
 </table> -->
+<p>
+ Desenvolvedor front-end junior focado em angular, venho trabalhando com tecnologia desde 2019.<br>
+ Apaixonado por tecnologia, focado em desenvolver aplicações responsivas, acessíveis, intuitivas e de alta performance.<br>
+ Estudande assíduo, me desafio constantemente, e me tornar um desenvolverdor de alta qualidade me motiva.<br>
+ Acho fantastico desenvolver um layout com design desafiador e bonito, fico facinado e orgulhoso ao ver funcionando aplicações que ajudei a construir.
+ 
+</p>
+</div>
 
   <br><div align="left">
     <a href="https://github.com/vitoneto">
@@ -10,14 +20,16 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoneto&layout=compact&langs_count=7&theme=react"/></a>
   </div>
 <div style="display: inline_block">
-<img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-<img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
-<img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original-wordmark.svg"/>
-<img align="center" alt="Rafa-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
-<img align="center" alt="Rafa-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg">
+ <a href="https://github.com/vitoneto">
+ <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+ <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+ <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+ <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+ <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original-wordmark.svg"/>
+ <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
+ <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg">
+  </a>
 </div>
 
 ##
