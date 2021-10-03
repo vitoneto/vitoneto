@@ -33,7 +33,7 @@
 </div>
 
 ##
-
+<h4>:speech_balloon:&nbsp; Sinta-se à vontade para falar comigo! </h4>
 <a href="https://twitter.com/VITOMANOELNETO1" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 <a href="https://www.instagram.com/vitomanoelneto/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"/></a>
 <a href="mailto:vitomanoelneto1997@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
