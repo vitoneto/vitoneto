@@ -4,7 +4,7 @@
  <tr><td><a href="README_en.md">English</a></td></tr>
  <tr><td><a href="README.md">Português</a></td></tr>
 </table>
-<img align="left" alt="British Flag" height="30" width="30" src="https://image.flaticon.com/icons/png/512/197/197374.png"/>
+<! –– <img align="left" alt="British Flag" height="30" width="30" src="https://image.flaticon.com/icons/png/512/197/197374.png"/>
 <h2>Hey there! I'm Vito Neto! 👋</h2>
 <p>
   Junior front-end developer focused on angular, I've been working with tech since 2019.<br>
