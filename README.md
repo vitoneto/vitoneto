@@ -6,7 +6,7 @@
 </table>
 <! –– <img align="left" alt="Brazil´s Flag" height="30" width="30" src="https://image.flaticon.com/icons/png/512/197/197386.png" /><h2>Olá! Sou Vito Neto!👋</h2>
 <p>
- Desenvolvedor front-end júnior focado em angular, venho trabalhando com tecnologia desde 2019.<br>
+ Desenvolvedor front-end focado em angular, venho trabalhando com tecnologia desde 2019.<br>
  Apaixonado por tecnologia, focado em desenvolver aplicações responsivas, acessíveis, intuitivas e de alta performance.<br>
  Estudante assíduo, me desafio constantemente, e me tornar um desenvolvedor de alta qualidade me motiva.<br>
  Acho fantástico desenvolver um layout com design desafiador e bonito, fico fascinado e orgulhoso ao ver funcionando aplicações que ajudei a construir.
