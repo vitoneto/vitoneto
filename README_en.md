@@ -7,7 +7,7 @@
 <! –– <img align="left" alt="British Flag" height="30" width="30" src="https://image.flaticon.com/icons/png/512/197/197374.png"/>
 <h2>Hey there! I'm Vito Neto! 👋</h2>
 <p>
-  Junior front-end developer focused on angular, I've been working with tech since 2019.<br>
+  Front-end developer focused on angular, I've been working with tech since 2019.<br>
   Passionate about technology, focused on developing responsive, accessible, intuitive and high performance applications.<br>
   I constantly challenge myself, and becoming a high quality developer motivates me.<br>
   I think it's fantastic to develop a layout with a challenging and beautiful design, I'm fascinated and proud to see running applications that I helped build.
